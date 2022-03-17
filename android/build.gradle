@@ -37,4 +37,6 @@ android {
 dependencies {
     implementation 'cn.jiguang.sdk:jpush-google:4.6.2'
     implementation 'cn.jiguang.sdk:jcore-google:3.2.2'
+    implementation 'cn.jiguang.sdk.plugin:fcm:4.6.2'    
+    implementation 'com.google.firebase:firebase-messaging:23.0.0'
 }
